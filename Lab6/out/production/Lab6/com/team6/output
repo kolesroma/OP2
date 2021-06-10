@@ -1,0 +1,22 @@
+count by loop
+213008144ns
+
+count by formula
+6775ns
+
+count with 2 threads
+7972288ns
+
+count with 4 threads
+2992446ns
+
+count with 8 threads
+328145ns
+
+count with 16 threads
+29354016ns
+
+count with 32 threads
+7682047ns
+
+Process finished with exit code 0

@@ -1,0 +1,48 @@
+count by loop
+213008144ns
+
+count by formula
+6775ns
+
+count with 2 threads
+7972288ns
+
+count with 4 threads
+2992446ns
+
+count with 8 threads
+328145ns
+
+count with 16 threads
+29354016ns
+
+count with 32 threads
+7682047ns
+
+Process finished with exit code 0
+
+====
+
+/home/roman/.jdks/openjdk-16/bin/java -javaagent:/home/roman/D/idea-IU-203.7717.56/lib/idea_rt.jar=38265:/home/roman/D/idea-IU-203.7717.56/bin -Dfile.encoding=UTF-8 -classpath /home/roman/download/Lab6/out/production/Lab6 com.team6.Main
+count by loop
+219478146ns
+
+count by formula
+3967ns
+
+count with 2 threads
+285793ns
+
+count with 4 threads
+138924ns
+
+count with 8 threads
+189646ns
+
+count with 16 threads
+7488011ns
+
+count with 32 threads
+11121595ns
+
+Process finished with exit code 0
